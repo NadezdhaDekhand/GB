@@ -1,3 +1,6 @@
+/** Home work 1
+  * author Nadezdha Dekhand
+ */
 public class HomeWork_2 {
     public static void main(String[] args) {
         System.out.println(within10and20(4, 8));
