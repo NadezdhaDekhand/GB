@@ -1,3 +1,7 @@
+/** Home work 1
+  * author Nadezdha Dekhand
+ */
+
 public class HomeWork_1 {
     public static void main(String[] args) {
         printThreeWords();
