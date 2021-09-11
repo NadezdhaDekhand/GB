@@ -1,4 +1,4 @@
-/** Home work 1
+/** Home work 2
   * author Nadezdha Dekhand
  */
 public class HomeWork_2 {
