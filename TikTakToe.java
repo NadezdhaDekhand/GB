@@ -1,6 +1,6 @@
 /** Home work 4
  * author Nadezdha Dekhand
- * version: 17.09.2021
+ * version: 18.09.2021
  */
 
 
