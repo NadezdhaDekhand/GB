@@ -1,3 +1,9 @@
+/** Home work 4
+ * author Nadezdha Dekhand
+ * version: 17.09.2021
+ */
+
+
 import java.util.Random;
 import java.util.Scanner;
 
