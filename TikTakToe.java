@@ -120,7 +120,7 @@ class TikTakToe {
         }
         return false;
     }
-    }
+}   
 
 
 
