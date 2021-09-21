@@ -16,7 +16,6 @@ public class HomeWork_5 {
             if (employee.getAge() >= 40)
                 System.out.println(employee);
     }
-
 }
 class Employee {
     private String name;
@@ -48,5 +47,4 @@ class Employee {
     public String toString() {
         return name + ", " + post + ", " + email + ", " + phone + ", " + salary + ", " + age;
     }
-
 }
