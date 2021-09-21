@@ -13,7 +13,7 @@ public class HomeWork_5 {
                         "ssanya123@mail.com", "+19995553666", 30000, 40)
         };
         for (Employee employee : employees)
-            if (employee.getAge() >= 40)
+            if (employee.getAge() > 40)
                 System.out.println(employee);
     }
 }
