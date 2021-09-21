@@ -1,3 +1,7 @@
+/** Home work 5
+ * author Nadezdha Dekhand
+ * version: 21.09.2021
+ */
 public class HomeWork_5 {
     public static void main(String[] args) {
         Employee[] employees = {
