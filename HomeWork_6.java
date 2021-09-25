@@ -1,5 +1,5 @@
 /** Home work 6
- * author Nadezdha Dekhand
+ * author Nadezhda Dekhand
  * version: 25.09.2021
  */
 public class HomeWork_6 {
