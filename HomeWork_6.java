@@ -36,7 +36,6 @@ class Cat extends Animal {
             System.out.println(name + " не смог пробежать " + run + " т.к дистанция имеет " + runMax + " метров ");
         }
     }
-
 }
 
 class Dog extends Animal {
