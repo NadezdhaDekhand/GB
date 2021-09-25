@@ -1,6 +1,6 @@
-/** Home work 5
+/** Home work 6
  * author Nadezdha Dekhand
- * version: 21.09.2021
+ * version: 25.09.2021
  */
 public class HomeWork_6 {
     public static void main(String[] args) {
