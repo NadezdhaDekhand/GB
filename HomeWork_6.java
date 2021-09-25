@@ -26,14 +26,14 @@ class Cat extends Animal {
     }
 
     public void swim() {
-        System.out.println(name + "  не умеет плавать");
+        System.out.println(name + " не умеет плавать");
     }
 
     public void run() {
         if (run < runMax && run >= 0) {
             System.out.println(name + " пробежал " + run + " м");
         } else {
-            System.out.println(name + " не смог пробежать " + run + " т.к дистанция имеет лимит 200 метров ");
+            System.out.println(name + " не смог пробежать " + run + " т.к дистанция имеет " + runMax + " метров ");
         }
     }
 
@@ -48,10 +48,10 @@ class Dog extends Animal {
     }
 
     public void swim() {
-        if (swim < swimMax && swim > 0) {
+        if (swim < swimMax && swim >= 0) {
             System.out.println(name + " проплыл " + swim + " м");
         } else {
-            System.out.println(name + " не смог проплыть " + swim + "  т.к дистанция имеет лимит 10 метров ");
+            System.out.println(name + " не смог проплыть " + swim + "  т.к дистанция имеет " + swimMax + " метров");
         }
     }
 
@@ -59,7 +59,7 @@ class Dog extends Animal {
         if (run < runMax && run >= 0) {
             System.out.println(name + " пробежал " + run + " м");
         } else {
-            System.out.println(name + " не смог пробежать " + run + " т.к дистанция имеет лимит 10 метров ");
+            System.out.println(name + " не смог пробежать " + run + " т.к дистанция имеет " + runMax + " метров  ");
         }
     }
 }
