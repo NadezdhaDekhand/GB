@@ -24,7 +24,6 @@ public class HomeWork_7 {
         System.out.println("Добавлен корм ...");
         System.out.println(plate);
 
-
         for (Cat cat : cats) {
             cat.setFullness(false);
             cat.eat(plate);
@@ -32,7 +31,6 @@ public class HomeWork_7 {
         }
         System.out.println(plate);
     }
-
 }
 
 class Cat {
